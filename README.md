@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3024-type-of-triangle](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2299-strong-password-checker-ii](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/2315-count-asterisks) |
 | [3894-traffic-signal-color](https://github.com/krishnatiwari005/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
